@@ -1,1 +1,3 @@
 Archivo inicial para el proyecto (repositorio) de Git
+
+Este archivo contiene información importante para el desarrollo del curso.
