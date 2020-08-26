@@ -6,3 +6,5 @@ Este es un repositorio inicial de Git
 1. Optmización
 2. Simulación MonteCarlo
 3. Ecuaciones Diferenciales
+
+### Este repositorio también contiene la lista de compras de la semana
